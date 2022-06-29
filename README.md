@@ -97,3 +97,9 @@ $ node examples/8_provider.js
 ```
 $ node examples/9_deploy.js
 ```
+
+### 10_utils.js - various utils functions for fromatting and hashing
+
+```
+$ node examples/10_utils.js
+```
